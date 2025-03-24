@@ -11,7 +11,7 @@ Wildberries Scraper is a Python script that extracts product data from the Wildb
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dias-2008/flipper-zero-scrapper-from-wildberries.git
    cd wildberries_scraper
    ```
 2. Install dependencies:  
